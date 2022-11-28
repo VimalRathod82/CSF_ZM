@@ -17,13 +17,13 @@ It includes modules for:
 - Doctypes for After Sales Service for companies who wish to use it.
 
 ### Clearing and Forwarding
-- Tanzanian specific Clearing and Forwarding doctypes.
+- Zambia specific Clearing and Forwarding doctypes.
 
 ### Fleet Management
-- Tanzanian specific Fleet Management doctypes.
+- Zambia specific Fleet Management doctypes.
 
 ### Workshop
-- Tanzanian specific company Workshop doctypes.
+- Zambian specific company Workshop doctypes.
 
 ### Utilities for productivity
 - Set visibility of documennts so that users are only shown specific documents based on access rights set
