@@ -1,10 +1,10 @@
-## CSF TZ
+## CSF ZM
 
-Country Specific Functionality Tanzania
+Country Specific Functionality Zambia
 
 It includes modules for:
-### Tanzanian Specific Customizations
-- The functionality that is related to Tanzania business environment.
+### Zambia Specific Customizations
+- The functionality that is related to Zambia business environment.
 - It also allows easy tax compliance and helps to ensure that necessary automation are in place.
 - It also has features such as polling sites for Vehicle Fines and Parking Tickets based on Vehicles defined in the system.
 - Open Invoice Exchange Rate Revaluation for companies that have lots of open invoices in foreign currency
